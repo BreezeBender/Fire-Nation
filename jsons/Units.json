@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Fire Army",
+		"unitType": "Melee",
+		"uniqueTo": "The Fire Nation",
+		"replaces": "Musketman",
+		"movement": 2,
+		"strength": 24,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"requiredResource": "Iron"
+		"obsoleteTech": "Replaceable Parts"
+		"upgradesTo": "Rifleman",
+		"promotions": ["Firebending","Besiege"],
+		"attackSound": "bombing"
+	},
+	{
+		"name": "Fire Nation Airship",
+		"unitType": "Melee",
+		"uniqueTo": "The Fire Nation",
+		"movement": 3,
+		"strength": 45,
+		"cost": 300,
+		"requiredTech": "Steam Power",
+		"requiredResource": "Consumes [1] [Coal]"
+		"upgradesTo": "Helicopter Gunship",
+		"uniques": ["[+100]% Strength <vs cities>","Ignores terrain cost","[-100]% Strength <vs [Air] units>,],
+		"promotions": ["Firebending"],
+		"Obsolete with ["Computer"]"
+		"attackSound": "bombing"
+	}
+]

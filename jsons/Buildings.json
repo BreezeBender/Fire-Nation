@@ -1,0 +1,11 @@
+[
+	{
+        "name": "Firebending School",
+        "replaces": "Barracks",
+        "uniqueTo": "The Fire Nation",
+        "cost": 75,
+        "maintenance": 1,
+        "uniques": ["[-1] culture [in this city]","All newly-trained [Melee] units [in this city] receive the [Firebending] promotion","Destroyed when the city is captured"],
+        "requiredTech": "Bronze Working"
+	},
+]

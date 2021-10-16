@@ -1,0 +1,6 @@
+[
+	{
+		"name": "Firebending",
+		"uniques": ["[+25]% Strength <vs cities>","[-25]% Strength for enemy [Military] units in adjacent [Forest] tiles","[-25]% Strength for enemy [Military] units in adjacent [Jungle] tiles","[-25]% Strength in [Tundra]","[-50]% Strength in [Snow]"]
+	}
+]
