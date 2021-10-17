@@ -1,3 +1,4 @@
+[
 	{
 		"name": "The Fire Nation",
 		"leaderName": "Ozai",
@@ -5,18 +6,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when 
-				the Fire Nation attacked. Fire Lord Ozai, once the most powerful firebender and ruler in the world, 
-				you rule over your people as well as you control fire, and your enemies all quiver before your magnificence. 
-				Your leadership saw great technological progress and industrialisation of the Fire Nation. And like your father 
-				and grandfather, you share a desire to 'unite' the world under one flag, one people. Your goals would have 
-				become a reality had it not for the intervention of the Avatar, the master of all four elements who used his 
-				energybending to take away your powers— and thus your right to rule. Due to the atrocities and suffering 
-				you and your ancestors have dispensed upon the world, the rest of your life was spent in the prison of your 
-				own homeland, which saw rule under the next Fire Lord, your son Zuko who then used the resources to restore 
-				peace to the world that you have scorched.",
-		"startIntroPart2": "Your people anticipate your rule once more, Phoenix King. Will you use your ruthless military might once more 
-				to share the prosperity of the Fire Nation with the world? Will you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Fire Lord Ozai, once the most powerful firebender and ruler in the world, you rule over your people as well as you control fire, and your enemies all quiver before your magnificence. Your leadership saw great technological progress and industrialisation of the Fire Nation. And like your father and grandfather, you share a desire to 'unite' the world under one flag, one people. Your goals would have become a reality had it not for the intervention of the Avatar, the master of all four elements who used his energybending to take away your powers— and thus your right to rule. Due to the atrocities and suffering you and your ancestors have dispensed upon the world, the rest of your life was spent in the prison of your own homeland, which saw rule under the next Fire Lord, your son Zuko who then used the resources to restore peace to the world that you have scorched.",
+		"startIntroPart2": "Your people anticipate your rule once more, Phoenix King. Will you use your ruthless military might once more to share the prosperity of the Fire Nation with the world? Will you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You're weak, just like the rest of your people! They do not deserve to exist in this world— in my world! Prepare to join them. Prepare to die!",
 		"attacked": "You dare challenge me, ruler of the strongest nation in the world? I admire your foolishness. May your cities and your people be bathed in the greatest firestorm you have ever seen!",
@@ -44,3 +35,4 @@
 		"uniques": ["+[20]% Production when constructing [Melee] units <when at war> <while the empire is happy>","[10]% of excess happiness converted to [Production] <when not at war>"],
 		"cities": ["Capital Island","Shuhon Island","Ma'inka Island","Ember Island","Crescent Island","Dizin Island","Hing Wa Island"]
 	},
+]
