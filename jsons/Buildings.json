@@ -5,7 +5,7 @@
         "uniqueTo": "The Fire Nation",
         "cost": 75,
         "maintenance": 1,
-        "uniques": ["[1] happiness [in this city]","[-1] culture [in this city]","All newly-trained [Melee] units [in this city] receive the [Firebending] promotion"],
+        "uniques": ["[+1] happiness [in this city]","[-1] culture [in this city]","All newly-trained [Melee] units [in this city] receive the [Firebending] promotion"],
         "requiredTech": "Writing"
 	},
 ]
