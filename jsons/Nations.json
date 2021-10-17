@@ -30,8 +30,7 @@
 		"outerColor": [238,15,15],
 		"innerColor": [41,41,41],
 		"uniqueName": "Sozin's Ambitions",
-		"uniqueText":  "When at war while the empire is happy, +20% production when constructing melee units; else 10% of excess happiness converted to production in all cities.
-		",
+		"uniqueText":  "When at war while the empire is happy, +20% production when constructing melee units; else 10% of excess happiness converted to production in all cities.",
 		"uniques": ["+[20]% Production when constructing [Melee] units <when at war> <while the empire is happy>","[10]% of excess happiness converted to [Production] <when not at war>"],
 		"cities": ["Capital Island","Shuhon Island","Ma'inka Island","Ember Island","Crescent Island","Dizin Island","Hing Wa Island"]
 	},
