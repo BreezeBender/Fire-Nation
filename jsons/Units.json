@@ -24,7 +24,7 @@
 		"requiredTech": "Steam Power",
 		"requiredResource": "Coal"
 		"upgradesTo": "Helicopter Gunship",
-		"uniques": ["[+100]% Strength <vs cities>","Ignores terrain cost","Ignores Zone of Control","[-100]% Strength <vs [Air] units>"],
+		"uniques": ["[+33]% Strength <vs [LandMelee] units>","[+100]% Strength <vs cities>","Ignores terrain cost","Ignores Zone of Control","[-100]% Strength <vs [Air] units>"],
 		"promotions": ["Firebending"],
 		"attackSound": "bombing"
 	}
