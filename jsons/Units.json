@@ -11,7 +11,7 @@
 		"requiredResource": "Iron"
 		"obsoleteTech": "Replaceable Parts"
 		"upgradesTo": "Rifleman",
-		"promotions": ["Besiege","Great General I"],
+		"promotions": ["Besiege","Great Generals I"],
 		"attackSound": "bombing"
 	},
 	{
@@ -22,7 +22,7 @@
 		"strength": 45,
 		"cost": 300,
 		"requiredTech": "Steam Power",
-		"requiredResource": "[Coal]"
+		"requiredResource": "Coal"
 		"upgradesTo": "Helicopter Gunship",
 		"uniques": ["[+100]% Strength <vs cities>","Ignores terrain cost","Ignores Zone of Control","[-100]% Strength <vs [Air] units>"],
 		"promotions": ["Firebending"],
