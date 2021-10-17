@@ -27,8 +27,8 @@
 		"afterPeace": "You want peace? Very well. Enjoy it while it lasts— My army will return one day..."
 		"tradeRequest": "My people have come to share with you prosperity from the Fire Nation.",
 
-		"outerColor": [41,41,41],
-		"innerColor": [238,15,15],
+		"outerColor": [238,15,15],
+		"innerColor": [41,41,41],
 		"uniqueName": "Sozin's Ambitions",
 		"uniqueText":  "When at war while the empire is happy, +20% production when constructing melee units; else 10% of excess happiness converted to production in all cities.
 		",
