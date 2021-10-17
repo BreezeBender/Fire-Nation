@@ -11,7 +11,7 @@
 		"requiredResource": "Iron"
 		"obsoleteTech": "Replaceable Parts"
 		"upgradesTo": "Rifleman",
-		"promotions": ["Firebending","Besiege"],
+		"promotions": ["Besiege","Great General I"],
 		"attackSound": "bombing"
 	},
 	{
