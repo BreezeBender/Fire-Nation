@@ -22,11 +22,10 @@
 		"strength": 45,
 		"cost": 300,
 		"requiredTech": "Steam Power",
-		"requiredResource": "Consumes [1] [Coal]"
+		"requiredResource": "[Coal]"
 		"upgradesTo": "Helicopter Gunship",
-		"uniques": ["[+100]% Strength <vs cities>","Ignores terrain cost","[-100]% Strength <vs [Air] units>,],
+		"uniques": ["[+100]% Strength <vs cities>","Ignores terrain cost","[-100]% Strength <vs [Air] units>"],
 		"promotions": ["Firebending"],
-		"Obsolete with ["Computer"]"
 		"attackSound": "bombing"
 	}
 ]
